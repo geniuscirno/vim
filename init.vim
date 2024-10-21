@@ -20,4 +20,5 @@ set rtp+=~/.vim
 
 LoadScript init/config.vim
 LoadScript init/plugin.vim
+LoadScript init/keymaps.vim
 LoadScript init/style.vim
